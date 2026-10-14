@@ -1,0 +1,11 @@
+# editor / OS cruft
+*~
+*.swp
+.DS_Store
+.vscode/
+.idea/
+
+# local build artifacts from testing the embedded C
+*.o
+*.out
+a.out
